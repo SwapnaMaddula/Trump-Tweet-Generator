@@ -6,7 +6,7 @@
 <br><b>PROBLEM STATEMENT</b>
 <br>The problem can be stated as “Given a sample tweet or type of tweet, a new tweet which looks like the one Donald Trump may write is being generated.”
 <br><b>APPROACH</b>
-<br>In the process of creating a tweet generator, I created a one-to-sequence model that can generate tweets like Trump. The steps to create the tweet generator as follows: 
+<br><t>In the process of creating a tweet generator, I created a one-to-sequence model that can generate tweets like Trump. The steps to create the tweet generator as follows: 
 <br>•	Collection and inspection of data i.e. Trump Tweets.
 <br>•	Preprocessing or curation of dataset.
 <br>•	Create words vectors using pre-trained word vectors (GloVe — Twitter 200d).
